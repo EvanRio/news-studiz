@@ -1,14 +1,35 @@
 [
   {
-    "id": 21,
-    "title": "🛠️ Améliorations & Nouveautés — Version V8",
-    "content": "La mise à jour V8 est maintenant disponible ! 🚀\n\n🗓️ Passage automatique à la semaine suivante lorsque la semaine est terminée.\n🧭 Affichage du planning décalé à partir du mercredi à l’ouverture de l’application.\n📊 Ajout des SAE dans le système de notes.\n➕ Ajout du samedi dans le planning pour une organisation encore plus complète.\n\n🚀 Plus fluide, plus clair, plus efficace !",
-    "date": "2026-01-12",
+    "id": 23,
+    "title": "Test",
+    "content": "Test",
+    "date": "2026-02-15",
     "importance": "Urgent",
     "hasRedirect": true,
-    "redirectUrl": "https://studiz.fun/",
-    "targetClasses": ["all"]
+    "redirectUrl": "https://locyzz.github.io/studiz/",
+    "targetClasses": ["all"],
+    "showOnOpen": true,
+    "maxShowCount": 2
   },
+  {
+    "id": 24,
+    "title": "Test 2",
+    "content": "Test 2",
+    "date": "2026-02-15",
+    "importance": "Normal",
+    "targetClasses": ["BUT1", "BUT2"],
+    "showOnOpen": true,
+    "maxShowCount": 1
+  },
+  {
+    "id": 25,
+    "title": "Test 3",
+    "content": "Test 3",
+    "date": "2026-02-15",
+    "importance": "Faible",
+    "targetClasses": ["BUT1:11A", "BUT2:21B"],
+    "showOnOpen": false
+  }
   {
     "id": 22,
     "title": "📸 Rejoins Studiz sur Instagram !",
@@ -20,3 +41,5 @@
     "targetClasses": ["all"]
   }
 ]
+
+
