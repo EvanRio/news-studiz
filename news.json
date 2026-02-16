@@ -1,15 +1,15 @@
 [
   {
-    "id": 27,
-    "title": "Test",
-    "content": "Test",
+    "id": 28,
+    "title": "Test 2",
+    "content": "Test 2",
     "date": "2026-02-15",
     "importance": "Urgent",
     "hasRedirect": true,
     "redirectUrl": "https://locyzz.github.io/studiz/",
     "targetClasses": ["all"],
     "showOnOpen": true,
-    "maxShowCount": 1,
+    "maxShowCount": 2,
     "imageUrl": "https://i.ibb.co/ZpysZ2gQ/Studiz.png"
   },
   {
