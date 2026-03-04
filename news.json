@@ -1,6 +1,6 @@
 [
   {
-    "id": 35,
+    "id": 36,
     "title": "🚀 La V9 est disponible !",
     "content": "Découvrez les nouveautés de cette mise à jour majeure :\n\n• Calcul de moyenne par unité 📊\n• Correction du bug de changement d'heure ⏰\n• Sécurisation renforcée de l'application 🔒\n• Nouveau lien vers le site d'entraînement 📝\n• Système de notifications avancées avec pop-up 🔔\n• Suppression du thème rose 🎨\n\nMettez à jour votre application pour profiter de toutes ces améliorations !",
     "date": "2026-03-04",
@@ -9,8 +9,7 @@
     "redirectUrl": "https://studiz.fun/",
     "targetClasses": ["all"],
     "showOnOpen": true,
-    "maxShowCount": 1,
-    "imageUrl": "https://i.ibb.co/ZpysZ2gQ/Studiz.png"
+    "maxShowCount": 1
   },
   {
     "id": 22,
