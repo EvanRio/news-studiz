@@ -1,5 +1,27 @@
 [
   {
+    "id": 1773786115871,
+    "title": "Test All",
+    "content": "Test All",
+    "date": "17/03/2026",
+    "importance": "Normal",
+    "targetClasses": [
+      "all"
+    ]
+  },
+  {
+    "id": 1773786104486,
+    "title": "Test 11A",
+    "content": "Test 11A",
+    "date": "17/03/2026",
+    "importance": "Normal",
+    "targetClasses": [
+      "11A"
+    ],
+    "showOnOpen": true,
+    "maxShowCount": 1
+  },
+  {
     "id": 36,
     "title": "🚀 La V9 est disponible !",
     "content": "Découvrez les nouveautées de cette mise à  jour majeure :\n\nCalcul de moyenne par unité 📊\nCorrection du bug de changement d'heure ⏰\nSécurisation renforcée de l'application 🔐\nNouveau lien vers le site d'entraînement 🏋️\nSystème de notifications avancées avec pop-up 🔔\nSuppression du thème rose 🎨\n\n\nMettez à jour votre application pour profiter de toutes ces améliorations !",
