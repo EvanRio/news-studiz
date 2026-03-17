@@ -1,5 +1,15 @@
 [
   {
+    "id": 1773785960207,
+    "title": "Test",
+    "content": "Test",
+    "date": "17/03/2026",
+    "importance": "Normal",
+    "targetClasses": [
+      "all"
+    ]
+  },
+  {
     "id": 1773785935570,
     "title": "Test 11A",
     "content": "Test 11A",
