@@ -1,38 +1,5 @@
 [
   {
-    "id": 1773785815235,
-    "title": "test final",
-    "content": "test final",
-    "date": "17/03/2026",
-    "importance": "Normal",
-    "targetClasses": [
-      "all"
-    ]
-  },
-  {
-    "id": 1773785454690,
-    "title": "Test 11A",
-    "content": "test 11A",
-    "date": "17/03/2026",
-    "importance": "Normal",
-    "targetClasses": [
-      "11A"
-    ]
-  },
-  {
-    "id": 1773784988882,
-    "title": "Test",
-    "content": "Test",
-    "date": "17/03/2026",
-    "importance": "Faible",
-    "targetClasses": [
-      "12C"
-    ],
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvOUsqj7oT359UOdGSje_5n_8yd_e6t2eTPQ&s",
-    "showOnOpen": true,
-    "maxShowCount": 1
-  },
-  {
     "id": 36,
     "title": "🚀 La V9 est disponible !",
     "content": "Découvrez les nouveautées de cette mise à  jour majeure :\n\nCalcul de moyenne par unité 📊\nCorrection du bug de changement d'heure ⏰\nSécurisation renforcée de l'application 🔐\nNouveau lien vers le site d'entraînement 🏋️\nSystème de notifications avancées avec pop-up 🔔\nSuppression du thème rose 🎨\n\n\nMettez à jour votre application pour profiter de toutes ces améliorations !",
