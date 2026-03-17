@@ -1,30 +1,8 @@
 [
   {
-    "id": 1773786115871,
-    "title": "Test All",
-    "content": "Test All",
-    "date": "17/03/2026",
-    "importance": "Normal",
-    "targetClasses": [
-      "all"
-    ]
-  },
-  {
-    "id": 1773786104486,
-    "title": "Test 11A",
-    "content": "Test 11A",
-    "date": "17/03/2026",
-    "importance": "Normal",
-    "targetClasses": [
-      "11A"
-    ],
-    "showOnOpen": true,
-    "maxShowCount": 1
-  },
-  {
     "id": 36,
-    "title": "🚀 La V9 est disponible !",
-    "content": "Découvrez les nouveautées de cette mise à  jour majeure :\n\nCalcul de moyenne par unité 📊\nCorrection du bug de changement d'heure ⏰\nSécurisation renforcée de l'application 🔐\nNouveau lien vers le site d'entraînement 🏋️\nSystème de notifications avancées avec pop-up 🔔\nSuppression du thème rose 🎨\n\n\nMettez à jour votre application pour profiter de toutes ces améliorations !",
+    "title": "ð La V9 est disponible !",
+    "content": "DÃ©couvrez les nouveautÃ©es de cette mise Ã Â  jour majeure :\n\nCalcul de moyenne par unitÃ© ð\nCorrection du bug de changement d'heure â°\nSÃ©curisation renforcÃ©e de l'application ð\nNouveau lien vers le site d'entraÃ®nement ðï¸\nSystÃ¨me de notifications avancÃ©es avec pop-up ð\nSuppression du thÃ¨me rose ð¨\n\n\nMettez Ã  jour votre application pour profiter de toutes ces amÃ©liorations !",
     "date": "2026-03-04",
     "importance": "Urgent",
     "targetClasses": [
@@ -37,8 +15,8 @@
   },
   {
     "id": 22,
-    "title": "📸 Rejoins Studiz sur Instagram !",
-    "content": "Ne rate aucune nouveauté ni astuce d'organisation 📅\nSuis-nous dès maintenant sur Instagram : @studizapp\n➡️ Du contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
+    "title": "ð¸ Rejoins Studiz sur Instagram !",
+    "content": "Ne rate aucune nouveautÃ© ni astuce d'organisation ð\nSuis-nous dÃ¨s maintenant sur Instagram : @studizapp\nâ¡ï¸ Du contenu exclusif, des aperÃ§us des prochaines versions et des sondages pour amÃ©liorer l'app Ã  venir.",
     "date": "2026-01-12",
     "importance": "Normal",
     "targetClasses": [
