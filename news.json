@@ -1,17 +1,5 @@
 [
   {
-    "id": 1773824502414,
-    "title": "Maceo le plus beau",
-    "content": "Le plus beau",
-    "date": "18/03/2026",
-    "importance": "Normal",
-    "targetClasses": [
-      "12C"
-    ],
-    "showOnOpen": true,
-    "maxShowCount": 1
-  },
-  {
     "id": 36,
     "title": "🚀 La V9 est disponible !",
     "content": "Découvrez les nouveautés de cette mise à jour majeure :\n\n- Calcul de moyenne par unité 📊\n- Correction du bug de changement d'heure ⏰\n- Sécurisation renforcée de l'application 🔐\n- Nouveau lien vers le site d'entraînement 🏋️\n- Système de notifications avancées avec pop-up 🔔\n- Suppression du thème rose 🎨\n\nMettez à jour votre application pour profiter de toutes ces améliorations !",
