@@ -1,5 +1,17 @@
 [
   {
+    "id": 22,
+    "title": "📸 Rejoins Studiz sur Instagram !",
+    "content": "Ne rate aucune nouveauté ni astuce d'organisation 📅\nSuis-nous dès maintenant sur Instagram : @studizapp\n➡️ Du contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
+    "date": "2026-01-12",
+    "importance": "Normal",
+    "targetClasses": [
+      "all"
+    ],
+    "hasRedirect": true,
+    "redirectUrl": "https://www.instagram.com/studizapp?igsh=MXZmaXpkN3NvNW54cw=="
+  },
+  {
     "id": 1774392829346,
     "title": "🚀 Studiz V10 est disponible !",
     "content": "Voici ce qui change pour vous :\n🎨 Nouveau Look : Refonte graphique totale ! L’app est plus belle, plus fluide et surtout plus personnalisable.\n\n✏️ Plus de Liberté : Vous pouvez désormais modifier vos infos à plusieurs endroits (agenda, liens planning, etc.).\n\n✅ Check-list : Gérez votre charge de travail en cochant vos devoirs une fois terminés.\n\n⚠️ Pas d’inquiétude pour vos données : Vos liens de planning sont précieusement sauvegardés sur votre téléphone. Vous n’aurez pas besoin de les rajouter !\n\nMettez à jour votre app et découvrez tout ça dès maintenant. 🔥",
@@ -12,17 +24,5 @@
     "redirectUrl": "https://studiz.fun/",
     "showOnOpen": true,
     "maxShowCount": 2
-  },
-  {
-    "id": 22,
-    "title": "📸 Rejoins Studiz sur Instagram !",
-    "content": "Ne rate aucune nouveauté ni astuce d'organisation 📅\nSuis-nous dès maintenant sur Instagram : @studizapp\n➡️ Du contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
-    "date": "2026-01-12",
-    "importance": "Normal",
-    "targetClasses": [
-      "all"
-    ],
-    "hasRedirect": true,
-    "redirectUrl": "https://www.instagram.com/studizapp?igsh=MXZmaXpkN3NvNW54cw=="
   }
 ]
