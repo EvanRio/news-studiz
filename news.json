@@ -1,5 +1,20 @@
 [
   {
+    "id": 1778525497867,
+    "title": "Test 2",
+    "content": "test 2",
+    "date": "11/05/2026",
+    "importance": "Normal",
+    "targetClasses": [
+      "11A",
+      "11B",
+      "12C",
+      "12D"
+    ],
+    "showOnOpen": true,
+    "maxShowCount": 1
+  },
+  {
     "id": 22,
     "title": "📸 Rejoins Studiz sur Instagram !",
     "content": "Ne rate aucune nouveauté ni astuce d'organisation 📅\nSuis-nous dès maintenant sur Instagram : @studizapp\n➡️ Du contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
