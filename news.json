@@ -1,17 +1,5 @@
 [
   {
-    "id": 1778486348874,
-    "title": "Vente de crêpes",
-    "content": "Aujourd’hui dès 11h, l’ADIIL organise une vente de crêpes à sa boutique 🥞\nVenez en profiter : nature à 0,75€, ou avec garniture (Nutella, sucre, chantilly) à 1€ (+0,25€ par supplément).\nPremiers arrivés, premiers servis ! 😋",
-    "date": "11/05/2026",
-    "importance": "Normal",
-    "targetClasses": [
-      "all"
-    ],
-    "showOnOpen": true,
-    "maxShowCount": 1
-  },
-  {
     "id": 22,
     "title": "📸 Rejoins Studiz sur Instagram !",
     "content": "Ne rate aucune nouveauté ni astuce d'organisation 📅\nSuis-nous dès maintenant sur Instagram : @studizapp\n➡️ Du contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
