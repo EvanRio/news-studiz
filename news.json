@@ -1,18 +1,5 @@
 [
   {
-    "id": 1780476346699,
-    "title": "Cours de droit déplacé !",
-    "content": "Les TD12, le TD de droit de cet après-midi est déplacé de 14h00 -> 13h30",
-    "date": "03/06/2026",
-    "importance": "Urgent",
-    "targetClasses": [
-      "12C",
-      "12D"
-    ],
-    "showOnOpen": true,
-    "maxShowCount": 1
-  },
-  {
     "id": 1778540000954,
     "title": "Nouvelle mise à jour (v11) ✨",
     "content": "On a optimisé l'affichage et ajouté le support multi-planning. Installe la v11 pour découvrir toutes les améliorations !",
