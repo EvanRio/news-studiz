@@ -1,5 +1,19 @@
 [
   {
+    "id": 1789319323157,
+    "title": "Nouvelle version !",
+    "content": "Une nouvelle version de studiiz est disponible depuis le Play Store ! (Version 14)",
+    "date": "13/09/2026",
+    "importance": "Normal",
+    "targetClasses": [
+      "all"
+    ],
+    "hasRedirect": true,
+    "redirectUrl": "https://play.google.com/store/apps/details?id=com.locyzz.Studiz&pcampaignid=web_share",
+    "showOnOpen": true,
+    "maxShowCount": 1
+  },
+  {
     "id": 22,
     "title": "📸 Rejoins Studiz sur Instagram !",
     "content": "Ne rate aucune nouveauté ni astuce d'organisation 📅\nSuis-nous dès maintenant sur Instagram : @studiizapp\n➡️ Du contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
