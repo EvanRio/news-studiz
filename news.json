@@ -1,5 +1,20 @@
 [
   {
+    "id": 1789562710169,
+    "title": "🌭 BBQ Campus En Fête",
+    "content": "🔥 L’ADIIL organise un BBQ le jeudi 24 septembre dès 12h30 ! Menu à 5€ au parking devant le bâtiment Info. \n📝 Inscription obligatoire !",
+    "date": "16/09/2026",
+    "importance": "Normal",
+    "targetClasses": [
+      "all"
+    ],
+    "imageUrl": "https://i.ibb.co/Rk0fGZwm/Soir-e-d-int-gration-1.png",
+    "hasRedirect": true,
+    "redirectUrl": "https://www.adiil.fr/events/8",
+    "showOnOpen": true,
+    "maxShowCount": 1
+  },
+  {
     "id": 1789319323157,
     "title": "Nouvelle version !",
     "content": "Une nouvelle version de studiiz est disponible depuis le Play Store ! (Version 14)",
