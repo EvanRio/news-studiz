@@ -1,5 +1,19 @@
 [
   {
+    "id": 1789925324574,
+    "title": "Nouvelle mise à jour !",
+    "content": "Une nouvelle version de studiiz est disponible depuis le Play Store ! (Version 15)",
+    "date": "20/09/2026",
+    "importance": "Urgent",
+    "targetClasses": [
+      "all"
+    ],
+    "hasRedirect": true,
+    "redirectUrl": "https://play.google.com/store/apps/details?id=com.locyzz.Studiz&pcampaignid=web_share",
+    "showOnOpen": true,
+    "maxShowCount": 1
+  },
+  {
     "id": 1789562710169,
     "title": "🌭 BBQ Campus En Fête",
     "content": "🔥 L’ADIIL organise un BBQ le jeudi 24 septembre dès 12h30 ! Menu à 4€ au parking devant le bâtiment Info. \n📝 Inscription obligatoire !",
@@ -11,20 +25,6 @@
     "imageUrl": "https://i.ibb.co/chqgRWgL/Soir-e-Int-gration-2027-2028.png",
     "hasRedirect": true,
     "redirectUrl": "https://www.adiil.fr/events/8",
-    "showOnOpen": true,
-    "maxShowCount": 1
-  },
-  {
-    "id": 1789319323157,
-    "title": "Nouvelle version !",
-    "content": "Une nouvelle version de studiiz est disponible depuis le Play Store ! (Version 14)",
-    "date": "13/09/2026",
-    "importance": "Urgent",
-    "targetClasses": [
-      "all"
-    ],
-    "hasRedirect": true,
-    "redirectUrl": "https://play.google.com/store/apps/details?id=com.locyzz.Studiz&pcampaignid=web_share",
     "showOnOpen": true,
     "maxShowCount": 1
   },
