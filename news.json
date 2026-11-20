@@ -1,15 +1,15 @@
 [
   {
-    "id": 1793829124620,
-    "title": "Nouvelle mise à jour !",
-    "content": "Une nouvelle version de Studiiz est disponible depuis le Play Store ! (Version 16)\nElle ajoute des widgets, de vrais notifs et d'autres modifications plutôt intéressantes !",
-    "date": "04/11/2026",
+    "id": 1795160582310,
+    "title": "V17 disponible !",
+    "content": "Ton menu et un nouveau design des maintenant !",
+    "date": "20/11/2026",
     "importance": "Urgent",
     "targetClasses": [
       "all"
     ],
     "hasRedirect": true,
-    "redirectUrl": "https://play.google.com/store/apps/details?id=com.locyzz.Studiz&pcampaignid=web_share",
+    "redirectUrl": "https://play.google.com/store/apps/details?id=com.locyzz.Studiz",
     "showOnOpen": true,
     "maxShowCount": 1
   },
