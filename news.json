@@ -15,16 +15,14 @@
   },
   {
     "id": 22,
-    "title": "📸 Rejoins Studiz sur Instagram !",
-    "content": "Ne rate aucune nouveauté ni astuce d'organisation 📅\nSuis-nous dès maintenant sur Instagram : @studiizapp\n➡️ Du contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
+    "title": "Rejoins Studiz sur Instagram !",
+    "content": "Suis-nous dès maintenant sur Instagram : @studiizapp\n➡️ Pour être au courant des dernières nouveautés !",
     "date": "2026-01-12",
     "importance": "Normal",
     "targetClasses": [
       "all"
     ],
     "hasRedirect": true,
-    "redirectUrl": "https://www.instagram.com/studiizapp?stkn=MXZmaXpkN3NvNW54cw==",
-    "showOnOpen": true,
-    "maxShowCount": 1
+    "redirectUrl": "https://www.instagram.com/studiizapp?stkn=MXZmaXpkN3NvNW54cw=="
   }
 ]
